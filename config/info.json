@@ -1,10 +1,4 @@
 {
-  "id": "Alice40",
-  "name": "Alice40",
-  "layouts": {
-    "default_layout": {
-      "name": "default_layout",
-      "layout": [
         { "label": "ESC", "row": 0, "col":  0, "x":               3.04, "y":                2.5 },
         { "label": "Q", "row": 0, "col":  1, "x":               4.05, "y":                2.5 },
         { "label": "W", "row": 0, "col":  2, "x":               5.24, "y": 2.2299999999999995, "r":    3, "rx": 0, "ry": 0 },
